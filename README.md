@@ -18,7 +18,7 @@ B1:C40321  -- for chart showing data for last 2 weeks
 ```
 * The chart type should be Line, smooth. The horizontal axis needs to be setup with the *Time* column data, and the vertical axis should be setup with the *Voltage" column data. Also, select the *Treat labels a Text* option for the horizontal axis.
 
-* Go to *Tools --> Script Editor...* option of the spreadsheet to open the web-based IDE for editing the Apps Script and paste the code from BatteryVoltage.js into the Editor window. 
+* Go to *Tools --> Script Editor...* option of the spreadsheet to open the web-based IDE for editing the Apps Script and paste the code from [BatteryVoltage.js](https://github.com/ajithvasudevan/BatteryVoltage/blob/master/BatteryVoltage.js) into the Editor window. 
 
 * Publish the script using the *Publish --> Deploy as Web-App...* option of the Script Editor. 
 
